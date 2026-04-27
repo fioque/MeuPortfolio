@@ -147,7 +147,7 @@ O projeto foi desenvolvido para funcionar em:
 
 Desenvolvido por **Murillo Fioque**
 
-> "Início de carreira, foco total em evolução."
+> "Em aprendizado constantamente."
 
 ---
 
