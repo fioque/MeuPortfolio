@@ -47,7 +47,7 @@ Exemplo:
 
 ## 🧠 Funcionalidades
 
-# ✔ Cursor customizado com efeito de suavização
+### ✔ Cursor customizado com efeito de suavização
 
 # ✔ Animações ao scroll (Scroll Reveal)
 
