@@ -48,7 +48,8 @@ Exemplo:
 ## 🧠 Funcionalidades
 
 ✔ Cursor customizado com efeito de suavização
-✔ Animações ao scroll (Scroll Reveal)
+*
+✔ Animações ao scroll (Scroll Reveal)*
 ✔ Navbar dinâmica com efeito ao rolar
 ✔ Menu mobile responsivo (hamburger)
 ✔ Indicador de seção ativa no menu
