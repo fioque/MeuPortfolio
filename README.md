@@ -47,16 +47,23 @@ Exemplo:
 
 ## 🧠 Funcionalidades
 
-✔ Cursor customizado com efeito de suavização
-*
-✔ Animações ao scroll (Scroll Reveal)*
-✔ Navbar dinâmica com efeito ao rolar
-✔ Menu mobile responsivo (hamburger)
-✔ Indicador de seção ativa no menu
-✔ Barras de progresso animadas (skills)
-✔ Botão “voltar ao topo”
-✔ Formulário de contato com feedback visual
-✔ Layout totalmente responsivo
+# ✔ Cursor customizado com efeito de suavização
+
+# ✔ Animações ao scroll (Scroll Reveal)
+
+# ✔ Navbar dinâmica com efeito ao rolar
+
+# ✔ Menu mobile responsivo (hamburger)
+
+# ✔ Indicador de seção ativa no menu
+
+# ✔ Barras de progresso animadas (skills)
+
+# ✔ Botão “voltar ao topo”
+
+# ✔ Formulário de contato com feedback visual
+
+# ✔ Layout totalmente responsivo
 
 ---
 
