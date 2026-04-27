@@ -33,18 +33,6 @@ Apresentar minhas habilidades como desenvolvedor front-end e servir como ponto c
 
 ---
 
-## 🖥️ Preview
-
-📌 *Adicione aqui um print ou GIF do seu site*
-
-Exemplo:
-
-```
-/assets/preview.png
-```
-
----
-
 ## 🧠 Funcionalidades
 
 #### ✔ Cursor customizado com efeito de suavização
